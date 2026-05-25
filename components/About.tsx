@@ -138,10 +138,7 @@ export default function About() {
 
             <p ref={textRef} className="leading-relaxed mb-8"
                style={{ color: "var(--color-text)", opacity: 0.8 }}>
-              With over 3 years of experience in full-stack development, I specialize in building
-              robust, scalable applications using MongoDB, Express.js, React, and Node.js.
-              I&apos;m passionate about clean code, user experience, and turning complex problems
-              into elegant solutions.
+              I am a Frontend Developer dedicated to crafting highly interactive, pixel-perfect web experiences with React and Tailwind CSS. While my true passion lies on the client side—obsessing over sleek UI/UX layout principles and animations—I am deeply rooted in the MERN stack ecosystem. Having this full-stack context allows me to build beautiful, responsive interfaces that connect seamlessly with robust backend architectures.
             </p>
 
             {/* Animated stat counters */}
