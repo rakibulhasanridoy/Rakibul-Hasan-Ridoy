@@ -134,3 +134,4 @@ Fonts: **Playfair Display** (display headings) + **Source Sans 3** (body).
 - **Add projects** — extend the `PROJECTS` array in `Projects.tsx`
 - **Change colours** — update `--color-*` variables in `globals.css`
 - **Tweak animation speed** — adjust `duration` / `stiffness` / `damping` values in each component
+ 
