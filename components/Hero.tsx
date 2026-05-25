@@ -226,7 +226,7 @@ export default function Hero() {
 
           {/* Right — profile photo with orbit ring + badges */}
           <motion.div variants={iconItem} className="flex-shrink-0">
-            <div className="relative w-64 h-64 md:w-80 md:h-80 mx-auto">
+            <div className="relative w-64 h-64 md:w-80 md:h-80 mx-auto mt-16 md:mt-0 mb-10 md:mb-0">
 
               {/* Spinning orbit ring */}
               <div
